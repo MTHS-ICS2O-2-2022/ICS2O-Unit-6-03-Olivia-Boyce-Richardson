@@ -1,4 +1,47 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Olivia B-R
+* Created on: May 2023
 * This file contains the CSS for index.html
 */
+
+.mdl-layout__header-row {
+  justify-content: center;
+  padding: 0;
+}
+
+.mdl-layout__content {
+  padding-left: 15pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
+}
+
+.mdl-textfield__error {
+  color: #A99985;
+}
+
+.page-content {
+  color: #DAD2BC;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 3rem;
+}
+
+.page-content-answer {
+  color: #F5F1ED;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 3rem;
+}
+
+.right-image {
+  height: auto;
+  width: 250px;
+  float: right;
+}
+
+body {
+  background-color: #d955e4;
+}
+
+img {
+  float: right;
+  width: 400px;
+  height: auto;
+}
